@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStockChart.iml" filepath="$PROJECT_DIR$/AndroidStockChart.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockChart/StockChart.iml" filepath="$PROJECT_DIR$/StockChart/StockChart.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockChartProject.iml" filepath="$PROJECT_DIR$/StockChartProject.iml" />
     </modules>
